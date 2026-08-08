@@ -154,8 +154,8 @@ The analysis identifies relationships and patterns in the dataset but does not e
 
 | File | Description |
 |---|---|
-| `Coffee_Sales_Analysis.xlsx` | Complete Excel analysis and interactive dashboard |
-| `dashboard.png` | Dashboard preview |
+| `coffeeOrdersData.xlsx` | Complete Excel analysis and interactive dashboard |
+| `Coffee_Customer_Analysis.png` | Dashboard preview |
 
 ---
 
